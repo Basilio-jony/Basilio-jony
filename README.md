@@ -111,6 +111,5 @@ Se quiseres trocar ideias sobre desenvolvimento backend, arquitetura de software
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basilio-jony&show_icons=true&bg_color=00000000)
-
+[![Basilio GitHub stats](https://github-stats-extended.vercel.app/api?username=Basilio-jony)](https://github.com/stats-organization/github-stats-extended)
 </p>
